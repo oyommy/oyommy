@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Victor
+- Experience Technical Author
 - 👀 I’m interested in software development and technical writing
 - 🌱 I’m currently starting my blog and getting a postgraduate degree in software engineering ...
 - 💞️ I’m looking to collaborate on open source writing projects
